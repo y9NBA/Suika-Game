@@ -1,6 +1,4 @@
-import pygame as pg
-import numpy as np
-import pymunk as pm
+from library import *
 
 SIZE = WIDTH, HEIGHT = np.array([570, 770])
 PAD = (24, 160)
